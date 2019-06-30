@@ -55,5 +55,5 @@ https://blog.manash.me/multi-task-learning-in-keras-implementation-of-multi-task
 
 --Thanks a lot for viewing<br><br></p>
 
-N.B.: Jupyter-notebook files are large and may not be displayed properly in GitHub Use the online Notebook viewer: https://nbviewer.jupyter.org/ to view the notebooks
+N.B.: Jupyter-notebook files are large and may not be displayed properly in GitHub Use the online Notebook viewer: https://nbviewer.jupyter.org/ to view the notebooks.
 
