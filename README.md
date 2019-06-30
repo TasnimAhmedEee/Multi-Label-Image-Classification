@@ -32,7 +32,7 @@ b.	Using a shared neural network as a featuriser. Then connect it to task specif
  
 c.	Using a single neural network with twenty neurons in output layer. Each neuron of output-layer represents a class here.
 
-![shared-nn](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/shared-nn.png)
+![shared-nn](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/shared-nnn.png)
 
 
 ## Points to be noted 
