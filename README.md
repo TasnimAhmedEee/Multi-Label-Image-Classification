@@ -8,8 +8,7 @@ Animal: bird, cat, cow, dog, horse, sheep
 Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train 
 Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor 
 
-For this task, we will use the dataset from Pascal VOC challenge 2007. Download the dataset from http://host.robots.ox.ac.uk/pascal/VOC/voc2007/ 
-[Look at the Development Kit section for training data and Test Data section for test data]
+For this task, we will use the dataset from Pascal VOC challenge 2007. Download the dataset from http://host.robots.ox.ac.uk/pascal/VOC/voc2007/ <br>Look at the Development Kit section for training data and Test Data section for test data.
 
 
 ## The task
