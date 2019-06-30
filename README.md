@@ -30,7 +30,7 @@ b.	Using a shared neural network as a featuriser. Then connect it to task specif
 
 ![multi-task-nn](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/multi-task-nn.png)
  
-c.	Using a single neural network with twenty neurons in output layer. The architecture is also discussed while covering multi-task learning.
+c.	Using a single neural network with twenty neurons in output layer. Each neuron of output-layer represents a class here.
 
 ![shared-nn](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/shared-nn.png)
 
@@ -50,8 +50,8 @@ Python Dependencies:
     Tensorflow
     Matplotlib
 
-Was inspired from-
-1. 
+Was inspired from-<br>
+https://blog.manash.me/multi-task-learning-in-keras-implementation-of-multi-task-classification-loss-f1d42da5c3f6
 
 --Thanks a lot for viewing<br><br></p>
 
