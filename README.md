@@ -16,10 +16,12 @@ Our task is to identify the classes present in a particular image. We will use t
 
 a.	Training twenty(20) different neural networks. Each neural network detects a separate class, i.e, one neural network detects car, another one detects aeroplane, etc. 
 
-b.	Using a shared neural network as a featuriser. Then connect it to task specific layers. For each task, there should be a single neuron in its task specific output layer. As discussed before, the architecture is similar to the following image: 
+b.	Using a shared neural network as a featuriser. Then connect it to task specific layers. For each task, there should be a single neuron in its task specific output layer. As discussed before, the architecture is similar to the following image:
+
 ![House price](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/multi-task-nn.png)
  
-c.	Using a single neural network with twenty neurons in output layer. The architecture is also discussed while covering multi-task learning. 
+c.	Using a single neural network with twenty neurons in output layer. The architecture is also discussed while covering multi-task learning.
+
 ![House price](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/shared-nn.png)
 
 
@@ -29,3 +31,19 @@ c.	Using a single neural network with twenty neurons in output layer. The archit
 3.	Reporting average cosine similarity of actual vectors and output vectors. (For Test Data. Don’t use any of the test data for training) 
 4.	Including visual outputs in your report. (Some images and their actual annotations vs your output annotations; By annotations, I mean the classes that are present)  
 5.	Including remarks on which model is performing better and why. 
+
+Python Dependencies:
+
+    NumPy
+    Pandas
+    Sklearn
+    Tensorflow
+    Matplotlib
+
+Was inspired from-
+1. 
+
+--Thanks a lot for viewing<br><br></p>
+
+N.B.: Jupyter-notebook files are large and may not be displayed properly in GitHub Use the online Notebook viewer: https://nbviewer.jupyter.org/ to view the notebooks
+
