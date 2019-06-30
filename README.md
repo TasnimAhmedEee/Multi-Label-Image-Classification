@@ -49,6 +49,7 @@ Python Dependencies:
     Sklearn
     Tensorflow
     Matplotlib
+    Keras
 
 Was inspired from-<br>
 https://blog.manash.me/multi-task-learning-in-keras-implementation-of-multi-task-classification-loss-f1d42da5c3f6
