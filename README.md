@@ -17,8 +17,10 @@ Our task is to identify the classes present in a particular image. We will use t
 a.	Training twenty(20) different neural networks. Each neural network detects a separate class, i.e, one neural network detects car, another one detects aeroplane, etc. 
 
 b.	Using a shared neural network as a featuriser. Then connect it to task specific layers. For each task, there should be a single neuron in its task specific output layer. As discussed before, the architecture is similar to the following image: 
+![House price](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/multi-task-nn.png)
  
 c.	Using a single neural network with twenty neurons in output layer. The architecture is also discussed while covering multi-task learning. 
+![House price](https://github.com/TasnimAhmedEee/Multi-Label-Image-Classification/blob/master/shared-nn.png)
 
 
 ## Points to be noted 
