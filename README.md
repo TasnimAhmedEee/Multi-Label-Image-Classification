@@ -4,7 +4,6 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.0+-red.svg)](https://keras.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **📖 Detailed Blog Post:** For an in-depth walkthrough with theoretical explanations, code analysis, and architectural insights, check out the comprehensive blog post: [**Multi-Label Image Classification: Three Architectures Compared**](https://analyticalman.com/multi-label-image-classification/)
 
@@ -55,8 +54,6 @@ Class Distribution:
 ### 📥 Dataset Download
 
 Download from the official PASCAL VOC website:
-- **Training/Validation Data:** [Development Kit](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar)
-- **Test Data:** [Test Set](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar)
 
 ---
 
@@ -267,7 +264,7 @@ average_similarity = similarity.mean()
 
 ---
 
-## 🎓 Key Learnings
+## Key Learnings
 
 ### Technical Insights
 
