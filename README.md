@@ -18,7 +18,7 @@ This project tackles the challenging problem of **multi-label image classificati
 ### Sample Outputs
 
 <p align="center">
-<img src="sample1.png" alt="Sample 1"/>
+<!-- <img src="sample1.png" alt="Sample 1"/> -->
 <img src="sample2.png" alt="Sample 2"/>
 </p>
 
