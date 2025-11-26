@@ -15,11 +15,11 @@ This project tackles the challenging problem of **multi-label image classificati
 
 **The Challenge:** Predict which objects (out of 20 possible) are present in each image—an image might contain a **person AND a car AND a dog** all at once!
 
-### 🖼️ Sample Outputs
+### Sample Outputs
 
 <p align="center">
-  <img src="sample1.png" alt="Sample 1" width="400"/>
-  <img src="sample2.png" alt="Sample 2" width="400"/>
+<img src="sample1.png" alt="Sample 1"/>
+<img src="sample2.png" alt="Sample 2"/>
 </p>
 
 ---
@@ -285,7 +285,7 @@ average_similarity = similarity.mean()
 
 ---
 
-## 🖼️ Visual Results
+## Visual Results
 
 ### Sample Predictions
 
