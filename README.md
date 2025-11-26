@@ -326,16 +326,8 @@ For detailed explanations, code walkthroughs, and theoretical insights:
 ## Acknowledgments
 
 - **Dataset:** PASCAL VOC 2007 Challenge
-- **Inspiration:** [Multi-task Learning in Keras by Manash](https://blog.manash.me/multi-task-learning-in-keras-implementation-of-multi-task-classification-loss-f1d42da5c3f6)
 - **Blog Post:** Comprehensive explanation at [analyticalman.com](https://analyticalman.com/multi-label-image-classification/)
 
----
-
-## 📝 Note on Viewing Notebooks
-
-Jupyter notebook files are large and may not display properly in GitHub. Use the online Notebook viewer:
-
-**[NBViewer](https://nbviewer.jupyter.org/)** - Paste the GitHub URL to view notebooks properly
 
 ---
 
@@ -356,6 +348,4 @@ Jupyter notebook files are large and may not display properly in GitHub. Use the
   Read the full story at <a href="https://analyticalman.com/multi-label-image-classification/">Analytical Man</a>
 </p>
 
-
-N.B.: Jupyter-notebook files are large and may not be displayed properly in GitHub Use the online Notebook viewer: https://nbviewer.jupyter.org/ to view the notebooks.
 
